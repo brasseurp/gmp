@@ -1,8 +1,4 @@
----
-title: "évaluation"
----
-
-Évaluation
+# Évaluation {.unnumbered}
 
 -   **Participation** : 10%\
 -   **Mémoire Final** : 90%
