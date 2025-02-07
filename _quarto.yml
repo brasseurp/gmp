@@ -1,5 +1,7 @@
 project:
   type: book
+  output-dir: docs
+
 
 book:
   title: "SOCA-D554 - Mobilisations, genre et identités professionnelles - 2024- 25"
