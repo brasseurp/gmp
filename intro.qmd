@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 # Séance 1 - Déconstruire les évidences sur le genre {.unnumbered}
 
 ## Description du cours
@@ -184,22 +188,26 @@ perfectionnement du microscope et l'amélioration des illustrations
 médicales, permettent une observation plus précise des organes.
 Parallèlement, le contexte sociopolitique, marqué par la Révolution
 française et une nouvelle conception de la citoyenneté, suscite des
-débats sur la place des femmes dans la société.
+débats sur la place des femmes dans la
+société.[@gardeyLinventionNaturelSciences2000]
 
 Cette période voit l'abandon progressif de l'échelle de perfection
 hiérarchique au profit d'une pensée différentialiste. Les sexes ne sont
 plus perçus selon une continuité, mais comme deux natures distinctes et
-irréductibles. Les organes féminins, auparavant considérés comme des
-versions inversées des organes masculins, sont désormais reconnus pour
-leur spécificité. Cette révolution conceptuelle s'accompagne d'une
-nouvelle nomenclature anatomique, avec une terminologie spécifique pour
-chaque sexe, abandonnant les analogies traditionnelles.
+irréductibles[@schiebingerMindHasNo1991]. Les organes féminins,
+auparavant considérés comme des versions inversées des organes
+masculins, sont désormais reconnus pour leur
+spécificité[@moscucciScienceWomanGynaecology1990]. Cette révolution
+conceptuelle s'accompagne d'une nouvelle nomenclature anatomique, avec
+une terminologie spécifique pour chaque sexe, abandonnant les analogies
+traditionnelles.[@berriot-salvadoreCorpsDestinFemme1993]
 
 Ces changements ont des implications immédiates en médecine, notamment
 avec la naissance de la gynécologie et la spécialisation des soins par
-sexe. De nouvelles pathologies "féminines" sont identifiées, renforçant
-la naturalisation des rôles sociaux et la séparation des sphères
-masculine et féminine. Des discours sur la complémentarité des sexes
+sexe[@jordanovaSexualVisionsImages1993]. De nouvelles pathologies
+"féminines" sont identifiées, renforçant la naturalisation des rôles
+sociaux et la séparation des sphères masculine et
+féminine[@stolberg2003]. Des discours sur la complémentarité des sexes
 émergent, justifiant des rôles distincts pour les hommes et les femmes.
 
 Pierre Roussel, dans son ouvrage *Système physique et moral de la femme*
@@ -235,11 +243,12 @@ gynécologie en tant que spécialité autonome. Des instruments spécifiques
 ont été développés, et des praticiens spécialisés ont été formés pour
 traiter des aspects tels que la grossesse, l'accouchement, la puberté,
 la ménopause, ainsi que des pathologies considérées comme spécifiquement
-féminines, comme l'hystérie.
+féminines, comme l'hystérie.[@edelmanMetamorphosesLhysteriqueDebut2013]
 
 La médicalisation différenciée a entraîné une surveillance accrue du
 corps féminin, incluant le contrôle des cycles menstruels, la régulation
-des comportements et des prescriptions morales. De nouvelles catégories
+des comportements et des prescriptions
+morales[@carolMedecinsStigmatisationVice2002]. De nouvelles catégories
 pathologiques, telles que les troubles "spécifiquement féminins", les
 maladies nerveuses et les désordres de la reproduction, ont été
 définies, renforçant la vision binaire des corps et établissant des
@@ -249,33 +258,45 @@ contemporaine.
 Cette période a donc durablement établi une médecine genrée, avec des
 implications théoriques et pratiques qui perdurent encore aujourd'hui.
 
-# Au XIXᵉ siècle, la médecine a adopté une approche systématique pour étudier les différences sexuelles. Les dissections régulières et les collections anatomiques hospitalières ont permis des observations détaillées des particularités sexuées. Des chercheurs comme Xavier Bichat ont approfondi l'anatomie des tissus, tandis que Pierre Cabanis a exploré les liens entre le physique et le moral, et Julien-Joseph Virey a décrit la "nature féminine". Ces travaux ont conduit à une catégorisation scientifique des différences sexuelles, notamment en ce qui concerne le système nerveux, la structure osseuse et les organes spécifiques.
+Au XIXᵉ siècle, la médecine a adopté une approche systématique pour
+étudier les différences sexuelles. Les dissections régulières et les
+collections anatomiques hospitalières ont permis des observations
+détaillées des particularités sexuées. Des chercheurs comme Xavier
+Bichat [@duchesneau2012] ont approfondi l'anatomie des tissus, tandis
+que Pierre Cabanis [@martins1981] a exploré les liens entre le physique
+et le moral, et Julien-Joseph Virey
+[@williamsPhysicalMoralAnthropology1994] a décrit la "nature féminine".
+Ces travaux ont conduit à une catégorisation scientifique des
+différences sexuelles, notamment en ce qui concerne le système nerveux,
+la structure osseuse et les organes spécifiques.
 
 Entre 1850 et 1900, de nouvelles disciplines consacrées à l'étude du
 sexe ont émergé. La sexologie, par exemple, s'est développée avec des
 ouvrages tels que *Psychopathia Sexualis* de Richard von Krafft-Ebing en
 1886, qui proposait une classification des comportements sexuels et
-définissait les "perversions". Cette approche a souvent pathologisé les
-comportements non conformes aux normes de l'époque, renforçant des
-conceptions rigides de la masculinité et de la féminité. Parallèlement,
+définissait les "perversions". [@chaperon2007] Cette approche a souvent
+pathologisé les comportements non conformes aux normes de l'époque,
+renforçant des conceptions rigides de la masculinité et de la
+féminité[@oosterhuisStepchildrenNatureKrafftEbing2000]. Parallèlement,
 la révolution endocrinologique a permis l'isolement des hormones
 sexuelles et une meilleure compréhension de leur rôle dans le
 développement sexuel, ouvrant la voie à de nouvelles perspectives
-thérapeutiques, comme les traitements hormonaux.
+thérapeutiques, comme les traitements
+hormonaux[@sengooptaMostSecretQuintessence2006].
 
 Au début du XXᵉ siècle, les théories de la différenciation sexuelle se
 sont consolidées avec la découverte des chromosomes sexuels, la
 compréhension des hormones de développement et l'étude de la
-différenciation embryonnaire. Ces avancées ont eu des applications
-cliniques, notamment dans le traitement des "anomalies" sexuelles,
-l'établissement de critères de normalité et la mise en place de
-protocoles thérapeutiques spécifiques.
+différenciation embryonnaire.[@fausto-sterling2000] Ces avancées ont eu
+des applications cliniques, notamment dans le traitement des "anomalies"
+sexuelles, l'établissement de critères de normalité et la mise en place
+de protocoles thérapeutiques spécifiques.[@meyerowitz2004]
 
 Cette période a ainsi établi une "science du sexe" moderne, caractérisée
 par des normes biologiques strictes et un contrôle médical accru du
-genre. Ces développements ont eu des implications sociales et politiques
-significatives, influençant la perception des identités sexuées et la
-régulation des comportements sexuels.
+genre.[@greenhalgh1995] Ces développements ont eu des implications
+sociales et politiques significatives, influençant la perception des
+identités sexuées et la régulation des comportements sexuels.
 
 ### Étude de cas : les protocoles de John Money (1955)
 
