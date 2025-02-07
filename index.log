@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.11.11)  7 FEB 2025 20:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.7)  7 FEB 2025 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **index.tex
 (./index.tex
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (/Users/brasseur/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrreprt.cls
 Document Class: scrreprt 2024/10/24 v3.43 KOMA-Script document class (report)
 (/Users/brasseur/Library/TinyTeX/texmf-dist/tex/latex/koma-script/scrkbase.sty
@@ -194,9 +194,9 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/Users/brasseur/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ) (/Users/brasseur/Library/TinyTeX/texmf-dist/tex/latex/unicode-math/unicode-math.sty (/Users/brasseur/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-11-02 L3 programming layer (loader) 
+Package: expl3 2025-01-18 L3 programming layer (loader) 
 (/Users/brasseur/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \g__graphics_track_int=\count280
@@ -1001,12 +1001,12 @@ Type  H <return>  for immediate help.
 l.2055 \end{CSLReferences}
                            
 Here is how much of TeX's memory you used:
- 21785 strings out of 475994
- 420672 string characters out of 5777916
- 1106909 words of memory out of 5000000
- 44344 multiletter control sequences out of 15000+600000
- 561657 words of font info for 68 fonts, out of 8000000 for 9000
+ 21775 strings out of 475846
+ 420518 string characters out of 5773872
+ 1108538 words of memory out of 5000000
+ 44476 multiletter control sequences out of 15000+600000
+ 562425 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 108i,8n,123p,10900b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,8n,114p,10900b,489s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on index.pdf (38 pages).
