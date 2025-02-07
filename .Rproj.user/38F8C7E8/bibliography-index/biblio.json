@@ -27,6 +27,54 @@
             "title": "Literate programming",
             "type": "article-journal",
             "volume": "27"
+        },
+        {
+            "DOI": "10.4000/books.editionsehess.20467",
+            "URL": "http://dx.doi.org/10.4000/books.editionsehess.20467",
+            "author": [
+                {
+                    "family": "Steinberg",
+                    "given": "Sylvie"
+                }
+            ],
+            "id": "steinberg2008",
+            "issued": {
+                "date-parts": [
+                    [
+                        2008
+                    ]
+                ]
+            },
+            "language": "fr",
+            "page": "197-212",
+            "publisher": "Éditions de l’École des hautes études en sciences sociales",
+            "title": "Sexe et genre au xviiie siècle. Quelques remarques sur l’hypothèse d’une « fabrique du sexe »",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.3406/dhs.1980.1271",
+            "URL": "https://www.persee.fr/doc/dhs_0070-6760_1980_num_12_1_1271",
+            "author": [
+                {
+                    "family": "Brahimi",
+                    "given": "Denise"
+                }
+            ],
+            "container-title": "Dix-Huitième Siècle",
+            "id": "brahimiSexualiteDansLanthropologie1980",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1980
+                    ]
+                ]
+            },
+            "note": "3 citations (Crossref/DOI) [2025-02-07] Company: Persée - Portail des revues scientifiques en SHS Distributor: Persée - Portail des revues scientifiques en SHS Institution: Persée - Portail des revues scientifiques en SHS Label: Persée - Portail des revues scientifiques en SHS Publisher: Presses Universitaires de France",
+            "page": "113-126",
+            "title": "La sexualité dans l’anthropologie humaniste de buffon",
+            "type": "article-journal",
+            "volume": "12"
         }
     ],
     "project_biblios": [
