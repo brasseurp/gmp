@@ -1,24 +1,24 @@
 {
-    "id": "FA48A821",
-    "path": "~/Documents/GitHub/gmp/_quarto.yml",
-    "project_path": "_quarto.yml",
-    "type": "yaml",
+    "id": "7689F238",
+    "path": "~/Documents/GitHub/gmp/.gitignore",
+    "project_path": ".gitignore",
+    "type": "gitignore",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1738958291029.0,
+    "created": 1738958575476.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1738926978,
+    "lastKnownWriteTime": 1738958067,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1738926978,
+    "last_content_update": 1738958067,
     "read_only": false,
     "read_only_alternatives": []
 }

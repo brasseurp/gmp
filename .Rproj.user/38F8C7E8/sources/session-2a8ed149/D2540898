@@ -1,14 +1,14 @@
 {
-    "id": "E628008A",
+    "id": "D2540898",
     "path": "~/Documents/GitHub/gmp/evaluation.qmd",
     "project_path": "evaluation.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1738958295511.0,
+    "created": 1738958577979.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 3,
     "properties": {
         "rmdVisualMode": "true",
         "rmdVisualWrapConfigured": "true",
@@ -16,15 +16,15 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "31:0",
+        "rmdVisualModeLocation": "2:0",
         "quartoPreviewFormat": "pdf"
     },
     "folds": "",
-    "lastKnownWriteTime": 1738957775,
+    "lastKnownWriteTime": 1738958579,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1738957775,
+    "last_content_update": 1738958579792,
     "read_only": false,
     "read_only_alternatives": []
 }

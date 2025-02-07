@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.7)  7 FEB 2025 20:58
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.2.7)  7 FEB 2025 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -872,7 +872,7 @@ chapter 3.
 ]
 chapter 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--415
+Underfull \hbox (badness 10000) in paragraph at lines 407--410
 []\TU/lmr/m/n/10.95 conception de
  []
 
@@ -998,7 +998,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.2055 \end{CSLReferences}
+l.2050 \end{CSLReferences}
                            
 Here is how much of TeX's memory you used:
  21775 strings out of 475846

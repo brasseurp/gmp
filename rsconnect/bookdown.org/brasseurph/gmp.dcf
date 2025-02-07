@@ -1,0 +1,14 @@
+name: gmp
+title: gmp
+username: brasseurph
+account: brasseurph
+server: bookdown.org
+hostUrl: https://bookdown.org/__api__
+appId: 15000
+bundleId: 103763
+url: https://bookdown.org/brasseurph/gmp/
+version: 1
+quarto_version: 1.5.57
+quarto_engines: markdown
+asMultiple: FALSE
+asStatic: FALSE
