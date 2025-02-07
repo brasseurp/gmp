@@ -51,14 +51,16 @@ binaire des sexes, influençant profondément les perceptions sociales et
 culturelles de l'époque.
 
 Dans l'Antiquité, le médecin Galien a développé une théorie selon
-laquelle le corps humain est un continuum de perfection. Dans cette
-vision, le masculin est considéré comme la forme la plus accomplie,
-tandis que le féminin est perçu comme une version incomplète. Cette
-perfection est associée à la chaleur : le corps masculin, plus chaud,
-permettrait aux organes de se développer vers l'extérieur. À l'inverse,
-le corps féminin, manquant de cette chaleur, garderait ses organes
-reproducteurs à l'intérieur. Ainsi, les organes féminins seraient
-similaires aux masculins, mais restés internes par manque de chaleur.
+laquelle le corps humain est un continuum de
+perfection[@lloydScienceFolkloreIdeology1983]. Dans cette vision, le
+masculin est considéré comme la forme la plus accomplie, tandis que le
+féminin est perçu comme une version incomplète. Cette perfection est
+associée à la chaleur : le corps masculin, plus chaud, permettrait aux
+organes de se développer vers
+l'extérieur[@thomassetSexualiteSavoirMedical1985]. À l'inverse, le corps
+féminin, manquant de cette chaleur, garderait ses organes reproducteurs
+à l'intérieur. Ainsi, les organes féminins seraient similaires aux
+masculins, mais restés internes par manque de chaleur.
 
 Cette conception s'appuie sur la théorie des humeurs, qui décrit quatre
 qualités fondamentales : chaud, froid, sec et humide. La chaleur est vue
@@ -103,73 +105,52 @@ développement des organes et la force physique et morale. Ces idées ont
 contribué à une vision hiérarchisée des corps, influençant les
 perceptions des différences entre les sexes. [@bajeux2024]
 
-La théorie des humeurs, développée par Hippocrate et Galien, a établi
-une hiérarchie des corps basée sur l'équilibre des humeurs et les
-qualités associées. Selon cette conception, l'homme adulte, caractérisé
-par une chaleur et une sécheresse optimales, occupait le sommet de cette
-échelle, tandis que les femmes et les enfants, considérés comme plus
-froids et humides, se situaient à des niveaux inférieurs. Cette
-hiérarchie justifiait des perceptions de supériorité masculine et
-d'infériorité féminine, influençant les pratiques médicales et sociales
-de l'époque.
+## La théorie des humeurs : un dispositif médical de légitimation des hiérarchies sexuées
 
-Les médecins de l'Antiquité croyaient que des facteurs environnementaux
-tels que le régime alimentaire, le mode de vie et le climat pouvaient
-influencer l'équilibre des humeurs, permettant ainsi des transformations
-ascendantes (vers le masculin) ou descendantes (vers le féminin) sur
-cette échelle de perfection corporelle. Par exemple, une alimentation
-appropriée et des exercices physiques étaient recommandés pour augmenter
-la chaleur corporelle et favoriser des qualités considérées comme
-masculines.
+Dans l'Antiquité, la théorie des humeurs élaborée par Hippocrate et
+Galien a constitué un cadre conceptuel déterminant dans la construction
+médicale et sociale des différences entre les sexes. Cette théorie
+postule que le corps humain est régi par quatre humeurs fondamentales -
+le sang, le phlegme, la bile jaune et la bile noire - dont l'équilibre
+détermine la santé et le tempérament.
 
-Ces conceptions ont engendré des anxiétés sociales et médicales
-concernant la "régression" ou la féminisation des hommes, associée à une
-perte de chaleur vitale et à un affaiblissement moral. Pour prévenir
-cette déchéance perçue, des prescriptions médicales telles que des
-régimes "fortifiants" et des exercices "virils" étaient préconisées. Ces
-pratiques visaient à maintenir l'équilibre des humeurs et à préserver la
-vigueur masculine.
+Au cœur de ce système théorique se trouve une classification binaire
+associant le masculin au chaud et au sec, et le féminin au froid et à
+l'humide. Cette catégorisation n'était pas neutre : elle établissait une
+véritable échelle de perfection corporelle, plaçant l'homme adulte au
+sommet de la hiérarchie en raison de ses qualités thermiques optimales.
+Les femmes et les enfants, caractérisés par une "déficience" en chaleur,
+occupaient des positions subalternes dans cette typologie médicale.
 
-Aujourd'hui, bien que la théorie des humeurs soit obsolète, certaines de
-ses conceptions persistent dans le langage médical et les
-représentations populaires, reflétant la dimension sociale de la pensée
-médicale et les enjeux politiques historiques liés aux catégories de
-genre.Impact social et culturel du modèle unisexe
+L'originalité de ce système réside dans sa dimension dynamique :
+l'équilibre humoral pouvait être modifié par des facteurs
+environnementaux comme l'alimentation, l'activité physique ou le
+climat[@maclean1980]. Cette conception ouvrait la possibilité de
+transformations ascendantes (masculinisation) ou descendantes
+(féminisation) sur l'échelle des perfections
+corporelles[@parkSecretsWomenGender2008]. Les médecins prescrivaient
+ainsi des régimes "fortifiants" et des exercices "virils" pour maintenir
+ou augmenter la chaleur vitale masculine, tandis que les femmes
+recevaient des traitements visant à "équilibrer" leur supposée nature
+froide[@löwy2003].
 
-La théorie des humeurs, développée dans l'Antiquité, a profondément
-influencé la perception des différences entre les sexes et la
-justification de l'ordre social. Selon cette théorie, le corps humain
-est composé de quatre humeurs : le sang, le phlegme, la bile jaune et la
-bile noire. L'équilibre de ces humeurs détermine la santé et le
-tempérament d'une personne. Les hommes étaient considérés comme chauds
-et secs, tandis que les femmes étaient perçues comme froides et humides.
-Cette classification a conduit à une hiérarchisation des sexes, où la
-perfection masculine justifiait la domination masculine, et
-l'"imperfection" féminine légitimait la subordination. Ces conceptions
-médicales ont circulé entre les discours médicaux et politiques,
-renforçant les interprétations religieuses et juridiques qui fondaient
-les droits et devoirs selon le sexe, et régulaient les comportements
-sociaux. Par exemple, la médecine antique prescrivait des régimes
-"fortifiants" et des exercices "virils" pour les hommes afin de
-maintenir leur chaleur vitale, tandis que les femmes étaient soumises à
-des traitements visant à équilibrer leur tempérament perçu comme froid
-et humide. Ces pratiques médicales différenciées ont contribué à la
-construction des identités sociales et des rôles genrés, en définissant
-médicalement les aptitudes de chaque sexe, influençant ainsi
-l'éducation, les rôles sociaux et les normes comportementales.
-Aujourd'hui, bien que la théorie des humeurs soit obsolète, certaines de
-ses conceptions persistent dans le langage médical et les
-représentations populaires, reflétant la dimension sociale de la pensée
-médicale et les enjeux politiques historiques liés aux catégories de
-genre.
+Cette théorie médicale a servi de support scientifique à la légitimation
+des hiérarchies de genre. En naturalisant la supériorité masculine et
+l'infériorité féminine, elle a contribué à justifier les inégalités
+sociales entre les sexes. Les prescriptions médicales différenciées qui
+en découlaient ont participé à la construction des identités et des
+rôles genrés, en définissant "scientifiquement" les aptitudes et les
+limites propres à chaque sexe.
 
-Les conceptions médicales anciennes continuent d'influencer la médecine
-moderne, notamment à travers des biais de genre dans les diagnostics et
-les traitements. Par exemple, les femmes sont souvent sous-représentées
-dans les essais cliniques, ce qui peut affecter la qualité de leur prise
-en charge. De plus, des stéréotypes liés au genre peuvent influencer la
-manière dont les professionnels de santé dépistent et traitent certaines
-maladies.
+Si la théorie des humeurs est aujourd'hui obsolète sur le plan médical,
+son héritage persiste de manière diffuse dans les représentations et les
+pratiques contemporaines. Les biais de genre dans la recherche médicale
+actuelle - comme la sous-représentation des femmes dans les essais
+cliniques - témoignent de la persistance de présupposés
+différentialistes hérités de cette tradition. Cette généalogie
+historique invite à une réflexion critique sur l'articulation entre
+savoirs médicaux et rapports sociaux de sexe dans la production des
+inégalités de santé.
 
 Ces analyses montrent comment des modèles médicaux historiques ont
 structuré les rapports sociaux, influencé durablement les pratiques et
@@ -435,26 +416,189 @@ biologiques[@fausto-sterling2007]. Les médecins, en se positionnant
 comme découvreurs d'un "vrai sexe", participent en réalité à sa
 construction selon des normes culturelles prédominantes[@kessler1990].
 
-Une importance considérable est accordée à l'apparence des organes
-génitaux externes. Par exemple, la définition culturelle d'un "pénis
-adéquat" inclut des critères de taille et de fonctionnalité, reflétant
-des normes sociétales spécifiques. Cette approche crée une asymétrie
-dans les critères anatomiques : une attention particulière est portée au
-pénis pour les garçons, tandis que les critères pour les filles sont
-souvent moins définis.
+## Construction médicale et sociale du sexe à la naissance : entre normes et pratiques
 
-Dans le discours médical, des termes tels que "anormal" ou
-"hermaphrodite" sont évités, et les interventions chirurgicales sont
-présentées comme des "réparations" plutôt que des "constructions". Cette
-terminologie maintient la fiction d'une binarité sexuelle naturelle,
-malgré la diversité biologique observée.
+L'assignation sexuelle à la naissance représente un moment crucial où
+s'articulent savoirs médicaux, normes sociales et enjeux identitaires.
+Cette pratique révèle les mécanismes complexes de la construction
+sociale du genre, particulièrement visible dans le cas des variations du
+développement sexuel[@krausBicategorisationParSexe2000].
 
-Les parents subissent une pression pour procéder à une assignation
-rapide et définitive du sexe de leur enfant. Ils reçoivent des
-instructions sur la manière de gérer le secret et l'ambiguïté,
-contribuant ainsi à la construction collective d'une "fiction
-opératoire" concernant le genre de l'enfant.
+Les critères d'assignation sexuelle : une hiérarchisation médicale
+genrée
 
-Ces pratiques soulignent l'influence des normes sociales et culturelles
-sur les décisions médicales d'assignation de sexe, mettant en évidence
-la complexité de la construction du genre dès la naissance.
+L'évaluation médicale des organes génitaux externes lors de
+l'assignation sexuelle révèle une asymétrie fondamentale dans la
+construction sociale du genre. Pour le sexe masculin, les critères sont
+explicites et quantifiés, centrés sur la taille et la fonctionnalité du
+pénis. Cette approche s'inscrit dans ce que Bourdieu nommerait une
+"somatisation des rapports de domination", où le corps masculin devient
+l'objet d'une surveillance médicale particulière.
+
+Plusieurs recherches ont documenté les standards médicaux précis
+utilisés pour évaluer le "pénis adéquat". Kessler (1998) note que la
+longueur minimale acceptée pour un pénis à la naissance est généralement
+fixée à 2,5 centimètres, un critère arbitraire mais présenté comme
+objectif. Cette mesure devient un marqueur décisif de la masculinité,
+illustrant ce que Fausto-Sterling (2000) appelle la "matérialisation
+médicale des normes de genre".
+
+En contraste, les critères d'assignation du sexe féminin sont
+remarquablement moins définis. Cette "indétermination relative" des
+critères féminins n'est pas neutre : elle reflète une conception
+médicale où le féminin est défini par défaut, comme l'absence de
+caractéristiques masculines "adéquates". Comme l'a montré Karkazis
+[@karkazis2008], cette asymétrie reproduit une hiérarchie de genre où le
+masculin est posé comme référence positive et le féminin comme une
+catégorie résiduelle.
+
+# La construction médicale des "performances" sexuées : une analyse sociologique
+
+La différenciation des critères médicaux entre assignation masculine et
+féminine révèle une hiérarchisation genrée des priorités anatomiques et
+fonctionnelles. Cette asymétrie n'est pas neutre : elle traduit et
+reproduit des conceptions sociales profondes sur les rôles de genre.
+
+Pour l'assignation masculine, les critères se focalisent sur la
+"performance" externe et visible : - La capacité de miction debout,
+considérée comme un marqueur culturel de masculinité - La taille du
+pénis et sa capacité future de pénétration hétérosexuelle - L'apparence
+"normale" dans les situations de nudité collective (vestiaires,
+toilettes)
+
+Comme l'a démontré Kessler [@kessler1990], ces critères répondent moins
+à des nécessités biologiques qu'à des attentes sociales sur la
+performance de la masculinité. Cette préoccupation pour la "performance"
+visible reflète ce que Bourdieu nommerait une "incorporation des normes
+de la masculinité hégémonique".[@bourdieuDominationMasculine1990]
+
+En contraste, l'assignation féminine privilégie des critères liés à la
+reproduction : - La présence d'organes reproducteurs internes
+fonctionnels - Le potentiel de fertilité future - La capacité d'avoir
+des rapports hétérosexuels permettant la procréation
+
+Selon Karkazis [@karkazis2008], cette asymétrie révèle une conception
+différenciée de la sexualité : active et performative pour les hommes,
+reproductive et réceptive pour les femmes. Cette différenciation
+s'inscrit dans ce que Löwy [@löwy2003]identifie comme une "biologisation
+des rôles sociaux de genre".
+
+Les critères d'évaluation reflètent ainsi une double normalisation : -
+Anatomique : définissant ce qui constitue un corps "normal" selon le
+genre - Sociale : projetant des attentes de comportement et de rôle
+social différenciés
+
+Ces choix médicaux, présentés comme techniques, participent à la
+reproduction d'un ordre social genré où la masculinité est définie par
+la performance visible et la féminité par la fonction reproductive.
+
+Cette analyse révèle comment les critères médicaux d'assignation
+sexuelle, loin d'être simplement scientifiques, sont profondément
+imprégnés de normes sociales sur le genre et la sexualité.
+
+# La performativité du discours médical dans la construction du sexe
+
+Le vocabulaire médical concernant les variations du développement sexuel
+constitue un puissant instrument de normalisation. Cette terminologie,
+loin d'être uniquement descriptive, opère comme un dispositif de pouvoir
+au sens foucaldien, structurant la perception et la gestion sociale des
+corps.
+
+L'évolution historique du lexique médical est révélatrice : - Le terme
+"hermaphrodite", historiquement dominant jusqu'au XXe siècle, portait
+une charge mythologique et morale - Le passage à "intersexe" dans les
+années 1920 marque une première médicalisation du phénomène - L'adoption
+récente de "variations du développement sexuel" (VDS) ou "differences of
+sex development" (DSD) illustre une tentative de neutralisation
+technique
+
+Comme l'analyse Klöppel (2010), ces changements terminologiques ne sont
+pas de simples modernisations lexicales mais traduisent des
+transformations profondes dans les régimes de savoir-pouvoir médicaux.
+
+Le vocabulaire contemporain privilégie systématiquement : - Des termes
+techniques plutôt qu'identitaires - Un lexique de la variation plutôt
+que de la différence - Une rhétorique du développement plutôt que de
+l'état
+
+Selon l'analyse de Kraus (2000), cette évolution terminologique
+participe à une "naturalisation discursive" de l'intervention médicale.
+En présentant les variations comme des "développements" à "optimiser",
+le langage médical légitime les interventions précoces comme des
+corrections nécessaires plutôt que comme des choix sociaux.
+
+Cette politique lexicale produit plusieurs effets concrets : - Elle
+dépolitise les enjeux en les technicisant - Elle individualise des
+questions sociales en les médicalisant - Elle naturalise des choix
+normatifs en les présentant comme thérapeutiques
+
+Comme le souligne Karkazis (2008), ce travail discursif constitue un
+élément central du dispositif médical de production et de maintien de la
+binarité sexuelle.
+
+L'évolution terminologique est particulièrement révélatrice. L'abandon
+progressif de termes comme "hermaphrodite" ou "anormal", historiquement
+chargés et pathologisants, s'est fait au profit d'un vocabulaire
+technique apparemment plus neutre. Comme l'a montré Klöppel
+[@klöppel2010], ce changement lexical ne représente pas une simple
+modernisation du langage médical, mais une transformation profonde du
+cadre conceptuel de compréhension des variations sexuelles.
+
+Le recours systématique au vocabulaire de la "réparation" plutôt qu'à
+celui de la "construction" illustre ce que Kraus
+[@krausBicategorisationParSexe2000] appelle la "naturalisation
+discursive" du sexe. En présentant les interventions comme des
+corrections d'anomalies plutôt que comme des actes de construction
+sociale du genre, le discours médical maintient l'illusion d'une
+binarité sexuelle naturelle et préexistante aux interventions médicales.
+
+Cette stratégie discursive a des effets concrets sur les pratiques.
+Comme l'analysent Karkazis [@karkazis2008]et Davis [@davis2015], le
+vocabulaire de la réparation légitime les interventions précoces en les
+présentant comme des restaurations d'un ordre naturel plutôt que comme
+des choix sociaux et médicaux construits. Cette rhétorique occulte la
+diversité biologique réelle des corps et naturalise des décisions
+médicales qui sont fondamentalement sociales.
+
+# La construction collective du genre : entre médicalisation et socialisation
+
+Je vais approfondir cette analyse sociologique des trois niveaux du
+processus d'assignation sexuelle en ajoutant des références et
+développements supplémentaires.
+
+# La fabrique institutionnelle du genre : une analyse multi-niveaux
+
+L'assignation sexuelle constitue un cas paradigmatique de ce que les
+sociologues appellent une "construction sociale de la réalité" (Berger
+et Luckmann, 1966). Cette construction s'opère à travers une
+articulation complexe entre trois niveaux institutionnels.
+
+1.  L'autorité médicale comme instance légitime Au-delà des observations
+    de Karkazis (2008), les travaux de Löwy
+    [@lowyImperfectPregnanciesHistory2017]ont montré comment l'expertise
+    médicale s'est historiquement constituée comme l'autorité légitime
+    dans la détermination du sexe. Cette légitimité s'appuie sur ce que
+    Rose (2007) [@rose2007]nomme le "pouvoir biomédical" - un assemblage
+    de savoirs, de techniques et d'institutions qui naturalisent les
+    interventions médicales. L'urgence de l'assignation sexuelle
+    illustre parfaitement ce que Canguilhem [@canguilhem2013](1966)
+    identifiait comme la confusion entre le normal et le normatif en
+    médecine.
+
+2.  La famille comme dispositif de socialisation L'analyse de Davis
+    [@davis2015](2015) sur le "projet de genre" familial peut être
+    enrichie par les travaux de Meadow [@meadow2018](2018) sur la
+    "gender labor" - le travail quotidien des parents pour maintenir une
+    identité de genre cohérente. La gestion du secret, identifiée par
+    Fausto-Sterling[@fausto-sterling1999] (2000), s'inscrit dans ce que
+    Goffman (1963) théorisait comme le "management de l'information
+    stigmatisante". Les recherches de Preves (2003) montrent comment ce
+    silence imposé structure profondément les relations familiales.
+
+3.  Le cadre institutionnel élargi Les observations de Butler
+    [@butler2002] sur le rôle des institutions sont complétées par les
+    travaux de Spade (2015) sur l'administration de la différence
+    sexuelle. L'état civil, l'école et les services de santé forment ce
+    que West et Zimmerman [@west1987]appellent le "cadre institutionnel
+    du genre" - un système qui non seulement régule mais produit la
+    binarité sexuelle comme réalité sociale.
