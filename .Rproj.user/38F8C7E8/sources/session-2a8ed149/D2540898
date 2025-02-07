@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/gmp/evaluation.qmd",
     "project_path": "evaluation.qmd",
     "type": "quarto_markdown",
-    "hash": "614292026",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1738958577979.0,
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
+        "rmdVisualModeLocation": "29:0",
         "quartoPreviewFormat": "pdf"
     },
     "folds": "",
