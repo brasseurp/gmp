@@ -75,6 +75,238 @@
             "title": "La sexualité dans l’anthropologie humaniste de buffon",
             "type": "article-journal",
             "volume": "12"
+        },
+        {
+            "DOI": "10.4000/dossiersgrihl.4001",
+            "URL": "http://dx.doi.org/10.4000/dossiersgrihl.4001",
+            "author": [
+                {
+                    "family": "Moreau",
+                    "given": "Isabelle"
+                }
+            ],
+            "container-title": "Les Dossiers du Grihl",
+            "id": "moreau2010",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010,
+                        3,
+                        3
+                    ]
+                ]
+            },
+            "title": "Hiérarchie des esprits et esprit fort : Le discours médical",
+            "title-short": "Hiérarchie des esprits et esprit fort ",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.4000/clio.10957",
+            "URL": "http://dx.doi.org/10.4000/clio.10957",
+            "author": [
+                {
+                    "family": "Bonnard",
+                    "given": "Jean-Baptiste"
+                }
+            ],
+            "container-title": "Clio",
+            "id": "bonnard2013",
+            "issue": "37",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "page": "21-39",
+            "title": "Corps masculin et corps féminin chez les médecins grecs",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.4000/1217b",
+            "URL": "http://dx.doi.org/10.4000/1217b",
+            "author": [
+                {
+                    "family": "Bajeux",
+                    "given": "Camille"
+                },
+                {
+                    "family": "Fauvel",
+                    "given": "Aude"
+                }
+            ],
+            "container-title": "Histoire, médecine et santé",
+            "id": "bajeux2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "9-14",
+            "title": "Professions médicales et hiérarchies corporelles",
+            "type": "article-journal",
+            "volume": "25"
+        },
+        {
+            "DOI": "10.14375/np.9782070450787",
+            "URL": "http://dx.doi.org/10.14375/np.9782070450787",
+            "author": [
+                {
+                    "family": "Laqueur",
+                    "given": "Thomas"
+                }
+            ],
+            "id": "laqueur2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013,
+                        5,
+                        30
+                    ]
+                ]
+            },
+            "language": "fr",
+            "title": "La fabrique du sexe",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.2307/2928700",
+            "URL": "http://dx.doi.org/10.2307/2928700",
+            "author": [
+                {
+                    "family": "Vila",
+                    "given": "Anne C."
+                }
+            ],
+            "container-title": "Representations",
+            "id": "vila1995",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "76-93",
+            "title": "Sex and Sensibility: Pierre Roussel’s Système physique et moral de la femme",
+            "title-short": "Sex and Sensibility",
+            "type": "article-journal",
+            "volume": "52"
+        },
+        {
+            "DOI": "10.3406/roman.2000.955",
+            "URL": "http://dx.doi.org/10.3406/roman.2000.955",
+            "author": [
+                {
+                    "family": "Edelman",
+                    "given": "Nicole"
+                }
+            ],
+            "container-title": "Romantisme",
+            "id": "edelman2000",
+            "issue": "110",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "language": "fr",
+            "page": "73-87",
+            "title": "Représentation de la maladie et construction de la différence des sexes. Des maladies de femmes aux maladies nerveuses, l’hystérie comme exemple",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "DOI": "10.3917/dec.renne.2016.01.0283",
+            "ISBN": "978-2-7071-9048-2",
+            "URL": "https://www.cairn.info/encyclopedie-critique-du-genre--9782707190482-p-283.htm",
+            "author": [
+                {
+                    "family": "Vuille",
+                    "given": "Marilène"
+                }
+            ],
+            "collection-title": "Hors collection sciences humaines",
+            "container-title": "Encyclopédie critique du genre",
+            "id": "vuilleGynecologie2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "283-292",
+            "publisher": "La Découverte",
+            "title": "Gynécologie",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1093/oso/9780198751458.003.0008",
+            "URL": "http://dx.doi.org/10.1093/oso/9780198751458.003.0008",
+            "author": [
+                {
+                    "family": "Martin",
+                    "given": "Emily"
+                }
+            ],
+            "id": "martin1996",
+            "issued": {
+                "date-parts": [
+                    [
+                        1996,
+                        4,
+                        11
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "103-117",
+            "publisher": "Oxford University PressOxford",
+            "title": "The Egg and the Sperm: How Science has Constructed a Romance Based on Stereotypical Male-Female Roles",
+            "title-short": "The Egg and the Sperm",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.2307/2070622",
+            "URL": "http://dx.doi.org/10.2307/2070622",
+            "author": [
+                {
+                    "family": "Richardson",
+                    "given": "Laurel"
+                },
+                {
+                    "family": "Martin",
+                    "given": "Emily"
+                }
+            ],
+            "container-title": "Contemporary Sociology",
+            "id": "richardson1988",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988,
+                        3
+                    ]
+                ]
+            },
+            "page": "239",
+            "title": "The woman in the body: A cultural analysis of reproduction",
+            "title-short": "The woman in the body",
+            "type": "article-journal",
+            "volume": "17"
         }
     ],
     "project_biblios": [

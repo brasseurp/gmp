@@ -1,6 +1,4 @@
-#  {.unnumbered}
-
-## Séance 1 - Déconstruire les évidences sur le genre
+# Séance 1 - Déconstruire les évidences sur le genre {.unnumbered}
 
 ## Description du cours
 
@@ -32,177 +30,7 @@ les champs médical, féministe et académique.
     Bruxelles : De Boeck.\
     Manuel de référence actualisé.
 
-# Exercice d'ouverture (30 minutes)
-
-## Objectif
-
-Faire émerger et questionner les représentations spontanées des
-étudiant·es sur ce qui relève du "naturel" et du "culturel" dans les
-différences hommes/femmes.
-
-## Déroulement
-
-**Phase 1 : Travail individuel** (5 minutes) - Distribution d'une
-feuille avec deux colonnes : "Naturel" et "Culturel" - Consigne :
-"Listez les différences entre hommes et femmes que vous considérez comme
-naturelles ou culturelles" - Les étudiant·es sont encouragé·es à noter
-spontanément leurs idées
-
-**Phase 2 : Mise en commun** (10 minutes) - Création de deux colonnes au
-tableau - Recensement des propositions des étudiant·es - Préservation de
-leurs catégorisations initiales - Pas de commentaires à ce stade
-
-**Phase 3 : Discussion critique** (15 minutes)
-
-*Axes de questionnement :*
-
-1.  Historicité des catégories
-    -   "Ces différences ont-elles toujours existé ?"
-    -   "Sont-elles les mêmes dans toutes les sociétés ?"
-2.  Construction du naturel
-    -   "Comment savons-nous que telle différence est naturelle ?"
-    -   "Quelles sont nos sources de connaissance ?"
-3.  Variations culturelles
-    -   "Ces différences sont-elles universelles ?"
-    -   "Connaissez-vous des contre-exemples ?"
-
-### 
-
-# Guide pour la déconstruction des catégorisations naturel/culturel
-
-## Catégorisations fréquentes et leur analyse critique
-
-### 1. Éléments classés comme "naturels"
-
-#### Force physique
-
--   Naturalisation : Discours sur la "supériorité physique masculine
-    naturelle"
--   Déconstruction :
-    -   Variabilité historique des normes de force
-    -   Rôle de l'entraînement et de l'accès au sport
-    -   Diversité des capacités physiques individuelles
-    -   Construction sociale des standards de performance
-
-#### Maternité
-
--   Naturalisation : Assimilation femme/mère comme "destin biologique"
--   Déconstruction :
-    -   Distinction entre capacité biologique et rôle social
-    -   Historicité de l'instinct maternel
-    -   Construction sociale des modèles parentaux
-    -   Variation culturelle des pratiques de maternage
-
-#### Hormones
-
--   Naturalisation : Déterminisme hormonal des comportements
--   Déconstruction :
-    -   Histoire récente des connaissances hormonales
-    -   Complexité des interactions biologie/environnement
-    -   Usages sociaux des théories hormonales
-    -   Construction des "tempéraments" genrés
-
-#### Voix
-
--   Naturalisation : Division binaire voix graves/aiguës
--   Déconstruction :
-    -   Apprentissage social des registres vocaux
-    -   Variations culturelles de l'expression vocale
-    -   Construction historique des normes vocales
-    -   Rôle des pratiques éducatives
-
-#### Morphologie
-
--   Naturalisation : Dimorphisme sexuel comme donnée
--   Déconstruction :
-    -   Construction historique du dimorphisme
-    -   Rôle des pratiques corporelles
-    -   Variation des normes esthétiques
-    -   Impact des conditions matérielles
-
-### 2. Éléments classés comme "culturels"
-
-#### Vêtements
-
--   Apparence évidente du culturel
--   Points à approfondir :
-    -   Naturalisation de certains codes vestimentaires
-    -   Incorporation des normes vestimentaires
-    -   Régulation sociale de l'apparence
-    -   Résistances et transgressions
-
-#### Métiers
-
--   Division sexuelle du travail
--   Points à approfondir :
-    -   Naturalisation des compétences professionnelles
-    -   Construction historique des secteurs genrés
-    -   Mécanismes de ségrégation professionnelle
-    -   Évolution des qualifications
-
-#### Comportements
-
--   Stéréotypes de genre
--   Points à approfondir :
-    -   Socialisation différenciée
-    -   Incorporation des normes
-    -   Sanctions sociales des transgressions
-    -   Variations historiques et culturelles
-
-#### Rôles sociaux
-
--   Organisation sociale genrée
--   Points à approfondir :
-    -   Naturalisation des rôles traditionnels
-    -   Construction historique des sphères séparées
-    -   Légitimation des hiérarchies
-    -   Transformations contemporaines
-
-#### Goûts
-
--   Préférences genrées
--   Points à approfondir :
-    -   Construction sociale des préférences
-    -   Rôle de l'éducation et des médias
-    -   Marketing genré
-    -   Évolution des normes esthétiques
-
-## Points théoriques fondamentaux et leur application
-
-### 1. La naturalisation comme processus social
-
--   Mécanismes :
-    -   Invisibilisation du travail de construction
-    -   Universalisation des normes locales
-    -   Biologisation des différences sociales
-    -   Légitimation des hiérarchies
-
-### 2. Rôle des sciences dans la construction des différences
-
--   Dimensions :
-    -   Production de savoirs situés
-    -   Autorité du discours scientifique
-    -   Circulation des théories
-    -   Impact social des catégorisations médicales
-
-### 3. Historicité des catégories de sexe et de genre
-
--   Aspects :
-    -   Variation temporelle des définitions
-    -   Évolution des systèmes de classification
-    -   Transformation des normes
-    -   Construction des évidences contemporaines
-
-### 4. Imbrication du biologique et du social
-
--   Niveaux :
-    -   Interaction permanente nature/culture
-    -   Incorporation des normes sociales
-    -   Plasticité des corps
-    -   Régulation sociale du biologique
-    -   
-
-# Généalogie médicale du genre (45 min)
+# Généalogie médicale du genre
 
 Au XVIᵉ siècle, des anatomistes comme Vésale considéraient les organes
 génitaux masculin et féminin comme des variations d'un même modèle,
@@ -254,400 +82,263 @@ progressive du modèle unique. Ainsi, bien que le modèle du sexe unique
 ait dominé la pensée médicale jusqu'au XVIIIe siècle, des signes de
 changement apparaissaient déjà.
 
-# 
-
-# 3. Implications conceptuelles (10 min)
-
-## Vision hiérarchique des corps
-
-### A. L'échelle de perfection corporelle
-
-#### Fondements théoriques
-
--   Conception verticale du vivant :
-    -   Sommet : homme adulte parfait
-    -   Échelons intermédiaires : femmes, enfants
-    -   Base : êtres imparfaits
-
-#### Critères de perfection
-
--   La chaleur comme marqueur principal :
-    -   Maximum : corps masculin adulte
-    -   Déficit : corps féminin, corps juvénile
--   Autres indicateurs :
-    -   Équilibre des humeurs
-    -   Développement des organes
-    -   Force physique et morale
-
-### B. La possibilité théorique de transformation
-
-#### Mobilité sur l'échelle
-
--   Transformations possibles dans les deux sens :
-    -   Ascendantes (vers le masculin)
-    -   Descendantes (vers le féminin)
-
-#### Facteurs de transformation
-
--   Influences environnementales :
-    -   Régime alimentaire
-    -   Mode de vie
-    -   Climat
--   États physiologiques :
-    -   Âge
-    -   Maladie
-    -   Exercice
-
-### C. La peur de la "régression"
-
-#### Anxiétés sociales et médicales
-
--   Craintes de la "féminisation" :
-    -   Perte de chaleur vitale
-    -   Affaiblissement moral
-    -   Déchéance sociale
-
-#### Manifestations pratiques
-
--   Prescriptions médicales :
-    -   Régimes "fortifiants"
-    -   Exercices "virils"
-    -   Évitement des "excès"
-
-### Implications contemporaines
-
--   Persistances de ces conceptions :
-    -   Dans le langage médical
-    -   Dans certaines pratiques
-    -   Dans les représentations populaires
-
-Cette vision hiérarchique révèle : - La dimension sociale de la pensée
-médicale - Les enjeux politiques du savoir anatomique - La construction
-historique des catégories de genre
-
-# Impact social et culturel du modèle unisexe
-
-## 1. Justification de l'ordre social
-
-### Naturalisation des hiérarchies
-
--   Correspondance entre ordre corporel et ordre social :
-    -   Perfection masculine justifiant la domination masculine
-    -   "Imperfection" féminine légitimant la subordination
--   Circulation entre discours médical et politique
-
-### Implications religieuses et juridiques
-
--   Renforcement des interprétations bibliques
--   Fondement des droits et devoirs selon le sexe
--   Régulation des comportements sociaux
-
-## 2. Conception des rôles genrés
-
-### Construction des identités sociales
-
--   Définition médicale des aptitudes :
-    -   Force et rationalité masculines
-    -   Faiblesse et émotivité féminines
--   Impact sur l'éducation et les rôles sociaux
-
-### Normes comportementales
-
--   Prescriptions différenciées :
-    -   Activités recommandées/interdites
-    -   Modes de vie appropriés
-    -   Espaces sociaux accessibles
-
-## 3. Pratiques médicales et thérapeutiques
-
-### Traitements différenciés
-
--   Selon le tempérament attribué :
-    -   Remèdes "échauffants" pour les femmes
-    -   Remèdes "rafraîchissants" pour les hommes
--   Approches préventives genrées
-
-### Spécificités des soins
-
--   Développement de pratiques spécialisées :
-    -   Émergence de la gynécologie
-    -   Traitements des "maladies des femmes"
-    -   Attention particulière aux organes reproducteurs
-
-### Héritage contemporain
-
--   Persistances dans la médecine moderne :
-    -   Biais de genre dans les diagnostics
-    -   Différences de prise en charge
-    -   Représentations médicales sexuées
-
-Cette analyse montre comment un modèle médical : - Structure les
-rapports sociaux - Influence durablement les pratiques - Continue
-d'impacter notre vision contemporaine
-
-> Le sexe, tel que nous le connaissons... est le produit d'un moment
-> historique particulier" (Laqueur)
-
-### 
-
-# A. Le modèle unisexe galénique (7-8 min)
-
-## Introduction à la pensée galénique (2 min)
-
-"Pour visualiser comment les anciens concevaient les sexes, imaginez
-retourner un gant : la même structure, mais inversée. C'est ainsi que
-Galien, au IIe siècle, concevait les organes génitaux."
-
-## 1. Principes fondamentaux (3 min)
-
-### Le corps comme continuum
-
--   La différence sexuelle vue comme degré de développement
--   Métaphore de la chaleur vitale :
-    -   Chaleur masculine permettant l'extériorisation
-    -   "Froid" féminin maintenant l'intériorisation
--   Un seul sexe, deux manifestations
-
-### L'analogie structurelle
-
-**Trois correspondances fondamentales :** 1. Pénis/vagin : \* Même
-structure, orientation différente \* "Pénis inversé vers l'intérieur"
-
-2.  Testicules/ovaires :
-    -   Mêmes organes à différentes positions
-    -   Nommés "orchis" dans les deux cas
-3.  Scrotum/utérus :
-    -   Poches contenant les organes reproducteurs
-    -   Différence de localisation uniquement
-
-## 2. Sources historiques (3 min)
-
-### Analyse de documents
-
-**Planche de Vésale (1543)** - Projection de la planche - Observation
-guidée : \* Repérer les analogies \* Noter la terminologie utilisée \*
-Identifier les correspondances
-
-**Extrait de Galien** \> "La femme est plus imparfaite que l'homme par
-une seule chose, qui est très importante, à savoir la chaleur" -
-Discussion du texte - Implications de cette vision
-
-> **Question pour la discussion :** "Comment cette vision du corps
-> influence-t-elle encore notre façon de penser les différences
-> sexuelles ?"
-
-### 
-
-# B. La rupture du XVIIIe siècle (7-8 min)
-
-## 1. Le contexte de transformation (3 min)
-
-### L'essor de l'anatomie pathologique
-
--   Pratique systématique des autopsies
--   Développement des collections anatomiques
--   Nouveau regard sur les structures internes
-
-### Innovations techniques
-
--   Perfectionnement du microscope
--   Nouvelles techniques de conservation
--   Amélioration des illustrations médicales
-
-### Contexte sociopolitique
-
--   Révolution française et ses idéaux
--   Nouvelle conception de la citoyenneté
--   Débats sur la place des femmes
-
-## 2. La révolution conceptuelle (4 min)
-
-### Du hiérarchique au différentialiste
-
--   Abandon progressif de l'échelle de perfection
--   Émergence d'une pensée de la différence radicale
--   Opposition plutôt que continuité
-
-### L'incommensurabilité des sexes
-
--   Deux natures distinctes et irréductibles
--   Spécificité des organes féminins
--   Nouvelle compréhension du corps féminin
-
-### Révolution taxonomique
-
--   Nouvelle nomenclature anatomique
--   Terminologie spécifique pour chaque sexe
--   Abandon des analogies traditionnelles
-
-## 3. Implications immédiates (1 min)
-
-### En médecine
-
--   Naissance de la gynécologie
--   Spécialisation des soins par sexe
--   Nouvelles pathologies "féminines"
-
-### Dans la société
-
--   Naturalisation des rôles sociaux
--   Séparation des sphères masculine/féminine
--   Nouveaux discours sur la complémentarité
-
-**Extrait à discuter :** Pierre Roussel (1775) - *Système physique et
-moral de la femme* : "La femme n'est pas seulement différente de l'homme
-par ses organes, elle l'est par tout son être."
+La vision hiérarchique des corps, plaçant l'homme adulte au sommet,
+suivie des femmes et des enfants, trouve ses racines dans la théorie des
+humeurs de la médecine antique. Selon cette théorie, le corps humain est
+composé de quatre humeurs : le sang, le phlegme, la bile jaune et la
+bile noire. L'équilibre de ces humeurs détermine la santé et le
+tempérament d'une personne[@bonnard2013].
+
+La chaleur corporelle était considérée comme un critère de perfection.
+L'homme adulte était perçu comme possédant une chaleur maximale, tandis
+que les femmes et les enfants étaient vus comme ayant une chaleur
+déficiente, les rendant ainsi moins parfaits. Cette conception est
+illustrée par Galien, qui affirmait que la femme est "plus imparfaite
+que le mâle" en raison de sa nature plus froide.[@moreau2010]
+
+D'autres critères de perfection incluaient l'équilibre des humeurs, le
+développement des organes et la force physique et morale. Ces idées ont
+contribué à une vision hiérarchisée des corps, influençant les
+perceptions des différences entre les sexes. [@bajeux2024]
+
+La théorie des humeurs, développée par Hippocrate et Galien, a établi
+une hiérarchie des corps basée sur l'équilibre des humeurs et les
+qualités associées. Selon cette conception, l'homme adulte, caractérisé
+par une chaleur et une sécheresse optimales, occupait le sommet de cette
+échelle, tandis que les femmes et les enfants, considérés comme plus
+froids et humides, se situaient à des niveaux inférieurs. Cette
+hiérarchie justifiait des perceptions de supériorité masculine et
+d'infériorité féminine, influençant les pratiques médicales et sociales
+de l'époque.
+
+Les médecins de l'Antiquité croyaient que des facteurs environnementaux
+tels que le régime alimentaire, le mode de vie et le climat pouvaient
+influencer l'équilibre des humeurs, permettant ainsi des transformations
+ascendantes (vers le masculin) ou descendantes (vers le féminin) sur
+cette échelle de perfection corporelle. Par exemple, une alimentation
+appropriée et des exercices physiques étaient recommandés pour augmenter
+la chaleur corporelle et favoriser des qualités considérées comme
+masculines.
+
+Ces conceptions ont engendré des anxiétés sociales et médicales
+concernant la "régression" ou la féminisation des hommes, associée à une
+perte de chaleur vitale et à un affaiblissement moral. Pour prévenir
+cette déchéance perçue, des prescriptions médicales telles que des
+régimes "fortifiants" et des exercices "virils" étaient préconisées. Ces
+pratiques visaient à maintenir l'équilibre des humeurs et à préserver la
+vigueur masculine.
+
+Aujourd'hui, bien que la théorie des humeurs soit obsolète, certaines de
+ses conceptions persistent dans le langage médical et les
+représentations populaires, reflétant la dimension sociale de la pensée
+médicale et les enjeux politiques historiques liés aux catégories de
+genre.Impact social et culturel du modèle unisexe
+
+La théorie des humeurs, développée dans l'Antiquité, a profondément
+influencé la perception des différences entre les sexes et la
+justification de l'ordre social. Selon cette théorie, le corps humain
+est composé de quatre humeurs : le sang, le phlegme, la bile jaune et la
+bile noire. L'équilibre de ces humeurs détermine la santé et le
+tempérament d'une personne. Les hommes étaient considérés comme chauds
+et secs, tandis que les femmes étaient perçues comme froides et humides.
+Cette classification a conduit à une hiérarchisation des sexes, où la
+perfection masculine justifiait la domination masculine, et
+l'"imperfection" féminine légitimait la subordination. Ces conceptions
+médicales ont circulé entre les discours médicaux et politiques,
+renforçant les interprétations religieuses et juridiques qui fondaient
+les droits et devoirs selon le sexe, et régulaient les comportements
+sociaux. Par exemple, la médecine antique prescrivait des régimes
+"fortifiants" et des exercices "virils" pour les hommes afin de
+maintenir leur chaleur vitale, tandis que les femmes étaient soumises à
+des traitements visant à équilibrer leur tempérament perçu comme froid
+et humide. Ces pratiques médicales différenciées ont contribué à la
+construction des identités sociales et des rôles genrés, en définissant
+médicalement les aptitudes de chaque sexe, influençant ainsi
+l'éducation, les rôles sociaux et les normes comportementales.
+Aujourd'hui, bien que la théorie des humeurs soit obsolète, certaines de
+ses conceptions persistent dans le langage médical et les
+représentations populaires, reflétant la dimension sociale de la pensée
+médicale et les enjeux politiques historiques liés aux catégories de
+genre.
+
+Les conceptions médicales anciennes continuent d'influencer la médecine
+moderne, notamment à travers des biais de genre dans les diagnostics et
+les traitements. Par exemple, les femmes sont souvent sous-représentées
+dans les essais cliniques, ce qui peut affecter la qualité de leur prise
+en charge. De plus, des stéréotypes liés au genre peuvent influencer la
+manière dont les professionnels de santé dépistent et traitent certaines
+maladies.
+
+Ces analyses montrent comment des modèles médicaux historiques ont
+structuré les rapports sociaux, influencé durablement les pratiques et
+continuent d'impacter notre vision contemporaine. Comme l'affirme Thomas
+Laqueur, "le sexe, tel que nous le connaissons... est le produit d'un
+moment historique particulier". [@laqueur2013]
+
+Au XVIIIe siècle, une transformation majeure s'opère dans la
+compréhension des sexes. Les avancées en anatomie pathologique, telles
+que la pratique systématique des autopsies et le développement des
+collections anatomiques, offrent un nouveau regard sur les structures
+internes du corps humain. Des innovations techniques, comme le
+perfectionnement du microscope et l'amélioration des illustrations
+médicales, permettent une observation plus précise des organes.
+Parallèlement, le contexte sociopolitique, marqué par la Révolution
+française et une nouvelle conception de la citoyenneté, suscite des
+débats sur la place des femmes dans la société.
+
+Cette période voit l'abandon progressif de l'échelle de perfection
+hiérarchique au profit d'une pensée différentialiste. Les sexes ne sont
+plus perçus selon une continuité, mais comme deux natures distinctes et
+irréductibles. Les organes féminins, auparavant considérés comme des
+versions inversées des organes masculins, sont désormais reconnus pour
+leur spécificité. Cette révolution conceptuelle s'accompagne d'une
+nouvelle nomenclature anatomique, avec une terminologie spécifique pour
+chaque sexe, abandonnant les analogies traditionnelles.
+
+Ces changements ont des implications immédiates en médecine, notamment
+avec la naissance de la gynécologie et la spécialisation des soins par
+sexe. De nouvelles pathologies "féminines" sont identifiées, renforçant
+la naturalisation des rôles sociaux et la séparation des sphères
+masculine et féminine. Des discours sur la complémentarité des sexes
+émergent, justifiant des rôles distincts pour les hommes et les femmes.
+
+Pierre Roussel, dans son ouvrage *Système physique et moral de la femme*
+[@vila1995] (1775), illustre cette nouvelle perception en affirmant :
+"La femme n'est pas seulement différente de l'homme par ses organes,
+elle l'est par tout son être." Cette citation souligne la vision
+essentialiste de l'époque, où les différences entre les sexes sont
+considérées comme fondamentales et englobantes.
 
 Cette rupture épistémologique illustre comment la pensée médicale
 participe à la construction sociale des catégories de sexe et de genre.
 
-## 
+Au XVIIIᵉ siècle, la médecine a contribué à la construction du
+dimorphisme sexuel en adoptant une approche anatomique systématique. Les
+médecins ont recherché méthodiquement les différences entre les sexes,
+documentant de manière exhaustive les variations observées et
+établissant des normes sexuées. Cette démarche a conduit à une
+révolution du langage médical, avec l'abandon des termes analogiques au
+profit d'une nomenclature spécifique différenciant systématiquement les
+descriptions anatomiques masculines et féminines. [@edelman2000]
 
-# 2. Implications théoriques et pratiques (15 min)
+Cette évolution s'est accompagnée d'une naturalisation des inégalités,
+où les différences anatomiques étaient utilisées pour justifier les
+rôles sociaux. La construction d'une "nature féminine" s'est appuyée sur
+la théorie des tempéraments, attribuant aux femmes des traits tels que
+la sensibilité, la fragilité et l'émotivité, tandis que les hommes
+étaient associés à la force, la rationalité et la stabilité. Ces
+conceptions ont eu un impact significatif sur l'éducation et les droits,
+renforçant les stéréotypes de genre. [@vuilleGynecologie2016]
 
-## A. Construction du dimorphisme sexuel (8 min)
+Dans la pratique médicale, cette période a vu la naissance de la
+gynécologie en tant que spécialité autonome. Des instruments spécifiques
+ont été développés, et des praticiens spécialisés ont été formés pour
+traiter des aspects tels que la grossesse, l'accouchement, la puberté,
+la ménopause, ainsi que des pathologies considérées comme spécifiquement
+féminines, comme l'hystérie.
 
-### 1. Le projet scientifique du dimorphisme
+La médicalisation différenciée a entraîné une surveillance accrue du
+corps féminin, incluant le contrôle des cycles menstruels, la régulation
+des comportements et des prescriptions morales. De nouvelles catégories
+pathologiques, telles que les troubles "spécifiquement féminins", les
+maladies nerveuses et les désordres de la reproduction, ont été
+définies, renforçant la vision binaire des corps et établissant des
+normes biologiques et sociales qui continuent d'influencer la médecine
+contemporaine.
 
--   **Nouvelle méthode anatomique :**
-    -   Recherche méthodique des différences
-    -   Documentation exhaustive des variations
-    -   Établissement de normes sexuées
--   **Révolution du langage médical :**
-    -   Abandon des termes analogiques
-    -   Création d'une nomenclature spécifique
-    -   Différenciation systématique des descriptions
+Cette période a donc durablement établi une médecine genrée, avec des
+implications théoriques et pratiques qui perdurent encore aujourd'hui.
 
-### 2. L'ancrage idéologique
+# Au XIXᵉ siècle, la médecine a adopté une approche systématique pour étudier les différences sexuelles. Les dissections régulières et les collections anatomiques hospitalières ont permis des observations détaillées des particularités sexuées. Des chercheurs comme Xavier Bichat ont approfondi l'anatomie des tissus, tandis que Pierre Cabanis a exploré les liens entre le physique et le moral, et Julien-Joseph Virey a décrit la "nature féminine". Ces travaux ont conduit à une catégorisation scientifique des différences sexuelles, notamment en ce qui concerne le système nerveux, la structure osseuse et les organes spécifiques.
 
--   **Naturalisation des inégalités :**
-    -   Le biologique comme destin
-    -   Différences anatomiques justifiant les rôles sociaux
-    -   Construction d'une "nature féminine"
--   **Théorie des tempéraments :**
-    -   Femme : sensibilité, fragilité, émotivité
-    -   Homme : force, rationalité, stabilité
-    -   Impact sur l'éducation et les droits
+Entre 1850 et 1900, de nouvelles disciplines consacrées à l'étude du
+sexe ont émergé. La sexologie, par exemple, s'est développée avec des
+ouvrages tels que *Psychopathia Sexualis* de Richard von Krafft-Ebing en
+1886, qui proposait une classification des comportements sexuels et
+définissait les "perversions". Cette approche a souvent pathologisé les
+comportements non conformes aux normes de l'époque, renforçant des
+conceptions rigides de la masculinité et de la féminité. Parallèlement,
+la révolution endocrinologique a permis l'isolement des hormones
+sexuelles et une meilleure compréhension de leur rôle dans le
+développement sexuel, ouvrant la voie à de nouvelles perspectives
+thérapeutiques, comme les traitements hormonaux.
 
-## B. Impact sur la pratique médicale (7 min)
+Au début du XXᵉ siècle, les théories de la différenciation sexuelle se
+sont consolidées avec la découverte des chromosomes sexuels, la
+compréhension des hormones de développement et l'étude de la
+différenciation embryonnaire. Ces avancées ont eu des applications
+cliniques, notamment dans le traitement des "anomalies" sexuelles,
+l'établissement de critères de normalité et la mise en place de
+protocoles thérapeutiques spécifiques.
 
-### 1. La spécialisation médicale
-
--   **Naissance de la gynécologie :**
-    -   Autonomisation comme spécialité
-    -   Développement d'instruments spécifiques
-    -   Formation de praticiens spécialisés
--   **Extension du champ médical :**
-    -   Grossesse et accouchement
-    -   Puberté et ménopause
-    -   Hystérie et "maladies des femmes"
-
-### 2. La médicalisation différenciée
-
--   **Surveillance du corps féminin :**
-    -   Contrôle des cycles
-    -   Régulation des comportements
-    -   Prescriptions morales
--   **Nouvelles catégories pathologiques :**
-    -   Troubles "spécifiquement féminins"
-    -   Maladies nerveuses
-    -   Désordres de la reproduction
-
-**Conclusion :** Cette période établit durablement : - Une vision
-binaire des corps - Une médecine genrée - Des normes biologiques et
-sociales encore influentes
-
-**Question pour la discussion :** "Comment ces catégories médicales
-historiques influencent-elles encore notre perception des différences de
-genre ?"
-
-# La biologisation des différences sexuelles (XIXe-XXe siècles)
-
-## 1. Anatomie pathologique et différences sexuelles (1800-1850)
-
-### Nouvelle approche anatomique
-
--   Observation systématique des cadavres :
-    -   Collections anatomiques hospitalières
-    -   Protocoles de dissection standardisés
-    -   Relevés détaillés des particularités sexuées
-
-### Théorisation des différences
-
--   **Travaux fondateurs** :
-    -   Bichat : anatomie des tissus
-    -   Cabanis : rapports physique/moral
-    -   Virey : "nature féminine"
--   **Catégorisation scientifique :**
-    -   Système nerveux différencié
-    -   Particularités osseuses
-    -   Spécificités organiques
-
-## 2. Émergence des nouvelles sciences du sexe (1850-1900)
-
-### La sexologie naissante
-
--   **Psychopathia Sexualis (1886)** :
-    -   Premier traité systématique
-    -   Classification des comportements sexuels
-    -   Définition des "perversions"
--   **Impact sur la compréhension du genre :**
-    -   Pathologisation des "inversions"
-    -   Normes de la masculinité/féminité
-    -   Contrôle médical des sexualités
-
-### La révolution endocrinologique
-
--   **Découvertes scientifiques :**
-    -   Isolement des hormones sexuelles
-    -   Compréhension des mécanismes hormonaux
-    -   Rôle dans le développement sexuel
--   **Nouvelles perspectives thérapeutiques :**
-    -   Traitements hormonaux
-    -   Interventions sur le développement
-    -   Modification des caractères sexuels
-
-## 3. Théories de la différenciation (1900-1930)
-
-### Bases biologiques
-
--   Chromosomes sexuels
--   Hormones de développement
--   Différenciation embryonnaire
-
-### Applications cliniques
-
--   Traitement des "anomalies"
--   Critères de normalité sexuelle
--   Protocoles thérapeutiques
-
-Cette période établit : - Une "science du sexe" moderne - Des normes
-biologiques strictes - Un contrôle médical accru du genre
-
-**Document d'étude :** Extrait de Krafft-Ebing sur la "constitution
-normale" des sexes → Analyse critique en classe
-
-*Cette partie montre l'établissement des bases scientifiques modernes de
-la différenciation sexuelle, tout en soulignant leurs implications
-sociales et politiques.*
+Cette période a ainsi établi une "science du sexe" moderne, caractérisée
+par des normes biologiques strictes et un contrôle médical accru du
+genre. Ces développements ont eu des implications sociales et politiques
+significatives, influençant la perception des identités sexuées et la
+régulation des comportements sexuels.
 
 ### Étude de cas : les protocoles de John Money (1955)
 
-**Contexte théorique** - Théorie de la neutralité psychosexuelle à la
-naissance - Rôle déterminant de l'éducation dans l'identité de genre -
-Période critique de fixation du genre (18-24 mois)
+Dans les années 1950, le psychologue John Money a développé la théorie
+selon laquelle l'identité de genre est malléable à la naissance et se
+forme principalement par l'éducation et l'environnement social. Il a
+proposé que les enfants naissent sans conscience innée de leur sexe ou
+de leur genre, et que ces caractéristiques se développent à travers leur
+éducation, en particulier au cours d'une période critique située entre
+18 et 24 mois.
 
-**Protocoles cliniques** - Prise en charge des enfants intersexes -
-Critères de décision pour l'assignation de sexe - Importance du secret
-médical - Chirurgies précoces de "normalisation"
+Sur la base de cette théorie, Money a établi des protocoles cliniques
+pour la prise en charge des enfants intersexes, c'est-à-dire ceux nés
+avec des caractéristiques sexuelles ambiguës. Ces protocoles incluaient
+des critères pour l'assignation d'un sexe, mettant l'accent sur
+l'importance de l'apparence des organes génitaux externes. Il
+préconisait des interventions chirurgicales précoces pour "normaliser"
+ces organes, suivies d'une éducation cohérente avec le sexe assigné. Le
+secret médical était également considéré comme essentiel, les parents
+étant souvent encouragés à ne pas divulguer la condition intersexe de
+l'enfant, afin de favoriser une identité de genre conforme au sexe
+assigné.
 
-**Implications théoriques et pratiques** - Séparation conceptuelle
-sexe/genre - Primauté accordée à l'apparence des organes génitaux -
-Influence durable sur la prise en charge médicale
+Ces protocoles ont eu des implications théoriques et pratiques
+significatives. Ils ont contribué à une distinction conceptuelle entre
+le sexe biologique et le genre en tant que construction sociale. La
+priorité accordée à l'apparence des organes génitaux a influencé
+durablement la prise en charge médicale des enfants intersexes, avec des
+interventions chirurgicales souvent réalisées sans le consentement
+éclairé des patients concernés. Cependant, des cas ultérieurs, tels que
+celui de David Reimer, ont mis en évidence les limites et les
+conséquences potentiellement néfastes de ces approches, conduisant à une
+réévaluation des pratiques médicales concernant l'assignation de sexe et
+le respect de l'autonomie des individus intersexes.
 
-### 
+Les protocoles cliniques développés par John Money pour la prise en
+charge des enfants intersexes reposaient sur plusieurs principes clés.
+L'un des aspects fondamentaux était l'assignation précoce d'un sexe,
+basée principalement sur l'apparence des organes génitaux externes.
+Cette décision visait à faciliter l'intégration sociale de l'enfant en
+lui attribuant un sexe clairement identifiable. Pour renforcer cette
+assignation, des chirurgies de "normalisation" étaient souvent réalisées
+dès le plus jeune âge afin de conformer les organes génitaux à
+l'apparence attendue du sexe assigné. Le secret médical entourant ces
+interventions était également jugé essentiel, les parents étant
+encouragés à ne pas divulguer la condition intersexe de l'enfant, dans
+le but de favoriser le développement d'une identité de genre cohérente
+avec le sexe assigné.
 
-# Sources historiques et études de cas pour la généalogie médicale du genre
+Ces protocoles ont eu des implications théoriques et pratiques
+significatives. Ils ont contribué à une distinction conceptuelle entre
+le sexe biologique et le genre en tant que construction sociale, en
+postulant que l'identité de genre pouvait être façonnée par l'éducation
+et l'environnement, indépendamment du sexe biologique. La priorité
+accordée à l'apparence des organes génitaux a conduit à une
+médicalisation accrue des corps intersexes, avec des interventions
+chirurgicales souvent réalisées sans le consentement des personnes
+concernées. Ces pratiques ont eu une influence durable sur la prise en
+charge médicale des personnes intersexes, mais ont également suscité des
+critiques et des réévaluations éthiques, notamment en ce qui concerne le
+respect de l'autonomie et des droits des patients.
+
+## Sources historiques et études de cas pour la généalogie médicale du genre
 
 ![Planches anatomiques Traité d'anatomie de Vesalius (1543) Planche des
 organes reproducteurs féminins/masculins montrant la théorie du sexe
@@ -660,207 +351,76 @@ the Body: Representations of Sex Differences in Gray’s Anatomy, 1858 to
 the Present. Body & Society, 4(1),
 1-15.](images/clipboard-1285558360.png)
 
-3.  **Documents cliniques de John Money (1955)**
-
--   Schémas de protocoles d'évaluation des nouveau-nés
--   Grilles d'observation du comportement genré
--   Critères d'assignation de sexe
-
-## Extraits de traités médicaux historiques
-
-1.  **Pierre Roussel (1775) - "Système physique et moral de la femme"**
-
--   Description du "tempérament féminin"
--   Justification médicale des rôles sociaux
-
-2.  **Xavier Bichat (1801) - "Anatomie générale"**
-
--   Théorie de la différenciation sexuelle
--   Descriptions des tissus et organes sexués
-
-3.  **Cesare Lombroso (1895) - "La femme criminelle"**
-
--   Lien entre anatomie et comportement
--   Théories sur les "déviances féminines"
-
-## Études de cas - Johns Hopkins Hospital
-
-### Protocole de prise en charge (1960s)
-
-1.  Examens initiaux :
-    -   Critères morphologiques
-    -   Tests hormonaux
-    -   Examens génétiques
-2.  Processus décisionnel :
-    -   Arbre de décision pour l'assignation
-    -   Calendrier des interventions
-    -   Protocoles de suivi
-
-### Documentation photographique
-
--   Photos cliniques avant/après interventions
--   Radiographies et autres examens
--   Évolution des techniques chirurgicales
-
-## Témoignages de patient·es
-
-### Archive orale (1990-2000)
-
--   Récits d'expériences médicales
--   Impact sur la construction identitaire
--   Conséquences à long terme
-
-### Documents militants intersexes (post-2000)
-
--   Critiques des protocoles médicaux
--   Revendications pour l'autodétermination
--   Évolution des pratiques médicales
-
-## Utilisation pédagogique
-
-1.  **Analyse comparative**
-    -   Évolution du regard médical
-    -   Changement des critères de "normalité"
-    -   Transformation des pratiques
-2.  **Discussion éthique**
-    -   Questions de consentement
-    -   Rôle du secret médical
-    -   Droits des patient·es
-3.  **Réflexion critique**
-    -   Construction sociale du "naturel"
-    -   Pouvoir médical et normes de genre
-    -   Résistances et changements
-
-## Précautions d'usage
-
--   Respect de l'anonymat des patient·es
--   Contextualisation historique des documents
--   Discussion des aspects éthiques
--   Sensibilité aux vécus traumatiques
-
-## Ressources complémentaires
-
-1.  **Archives médicales en ligne**
-    -   Wellcome Collection
-    -   Bibliothèque numérique Medica
-    -   Archives de la Salpêtrière
-2.  **Fonds documentaires**
-    -   Archives du Planning Familial
-    -   Collections universitaires
-    -   Fonds d'associations intersexes
-3.  **Témoignages contemporains**
-    -   Récits autobiographiques
-    -   Documents militants
-    -   Interviews filmées
-
-### Questions pour la discussion
-
-1.  Comment la médecine a-t-elle contribué à naturaliser les différences
-    de genre ?
-2.  Quel rôle ont joué les nouvelles technologies médicales dans la
-    conception du sexe/genre ?
-3.  Quels sont les héritages contemporains de cette histoire médicale ?
-
 ### Transition vers la partie suivante
 
-Cette généalogie médicale prépare la compréhension des critiques
-féministes qui vont émerger, notamment autour de la pathologisation des
-corps et de la normativité médicale.
+Les critiques féministes ont mis en lumière la pathologisation des corps
+féminins et la normativité médicale qui en découle. Elles ont souligné
+que de nombreux savoirs biologiques sur le corps ne sont pas neutres,
+mais construits à partir de positions de domination, entretenant des
+croyances essentialisantes et hiérarchisantes sur les corps. Par
+exemple, des biologistes comme Emily Martin [@martin1996] ont révélé les
+métaphores sexistes présentes dans la description de la procréation, où
+le spermatozoïde est souvent décrit comme actif et l'ovule comme passif
 
-Utiliser les contradictions et questionnements émergents pour introduire
+Cette pathologisation s'est manifestée par la médicalisation de
+phénomènes naturels du corps féminin, tels que le syndrome prémenstruel,
+souvent considéré comme une pathologie nécessitant une intervention
+médicale. De plus, des pratiques médicales comme les interventions
+chirurgicales précoces sur les enfants intersexués ont été critiquées
+pour leur tendance à conformer les corps à une binarité de genre
+normative, sans consentement éclairé des personnes concernées.
 
-:   -   La nécessité d'une approche historique - L'importance de la
-        construction médicale des différences - Le rôle des mouvements
-        féministes dans leur critique
+Les mouvements féministes ont joué un rôle crucial dans la critique de
+ces pratiques, en dénonçant la médicalisation excessive et en
+revendiquant une réappropriation du corps par les femmes. Par exemple,
+le mouvement "Our Bodies, Ourselves" aux États-Unis dans les années 1970
+a encouragé les femmes à se former et à échanger des informations sur
+leur propre santé, afin de réduire la dépendance au corps médical et de
+promouvoir une meilleure compréhension de leur propre
+corps.[@richardson1988]
 
-Cet exercice permet d'entrer directement dans le vif du sujet en partant
-des représentations des étudiant·es, tout en introduisant la perspective
-critique qui sera développée dans le cours.
+Ces critiques ont conduit à une réévaluation des pratiques médicales et
+à une prise de conscience de la nécessité d'une approche plus inclusive
+et respectueuse des expériences des femmes et des personnes
+intersexuées. Elles ont également souligné l'importance de considérer le
+contexte historique et social dans lequel ces savoirs médicaux ont été
+produits, afin de comprendre les biais qui peuvent les influencer.
 
-Évolution historique des théories médicales (18e-19e siècles) Émergence
-de la sexologie et de l'endocrinologie Étude de cas : protocoles de John
-Money (1955)
-
-1.2 Les controverses fondatrices
-
-Le cas David Reimer et ses implications théoriques Apports critiques
-d'Anne Fausto-Sterling sur la bicatégorisation
-
-2.  Généalogies féministes (45 min) 2.1 L'émergence du concept de genre
-
-De Beauvoir et la dénaturalisation de la féminité Les théoriciennes
-matérialistes (Delphy, Mathieu) Le genre comme rapport social de pouvoir
-
-2.2 Les mouvements féministes et la théorisation
-
-Le MLF et la théorisation par la lutte Contributions des féministes
-matérialistes françaises Circulation internationale des concepts
-
-3.  Le genre à la française (45 min) 3.1 Spécificités théoriques
-
-Les rapports sociaux de sexe vs gender L'approche matérialiste française
-Le rôle du colloque de Toulouse 1982
-
-3.2 Controverses et résistances
-
-Débats sur la traduction de "gender" Tensions théoriques et politiques
-Institutionnalisation des études sur le genre
-
-4.  Vers une définition complexe du genre (45 min) 4.1 Le genre comme
-    concept multidimensionnel
-
-Division sexuelle du travail Rapports de pouvoir Système de
+Ainsi, une approche historique est essentielle pour comprendre comment
+les différences sexuelles ont été construites médicalement et comment
+ces constructions ont été contestées par les mouvements féministes.
+Cette perspective critique permet de remettre en question les normes
+établies et de promouvoir des pratiques médicales plus équitables et
+respectueuses de la diversité des corps et des identités. Système de
 représentations
 
-4.2 Intersections et articulations
+Les décisions médicales concernant l'assignation du sexe chez les
+nouveau-nés présentant des variations du développement génital reposent
+souvent davantage sur des critères sociaux et culturels que strictement
+biologiques. Les médecins, en se positionnant comme découvreurs d'un
+"vrai sexe", participent en réalité à sa construction selon des normes
+culturelles prédominantes.
 
-Genre et autres rapports sociaux Matérialité et symbolique Perspectives
-contemporaines
+Une importance considérable est accordée à l'apparence des organes
+génitaux externes. Par exemple, la définition culturelle d'un "pénis
+adéquat" inclut des critères de taille et de fonctionnalité, reflétant
+des normes sociétales spécifiques. Cette approche crée une asymétrie
+dans les critères anatomiques : une attention particulière est portée au
+pénis pour les garçons, tandis que les critères pour les filles sont
+souvent moins définis.
 
-Bibliographie essentielle Bereni, L., Chauvin, S., Jaunait, A., &
-Revillard, A. (2020). Introduction aux études sur le genre. De Boeck
-Supérieur. Delphy, C. (2001). L'ennemi principal. Penser le genre.
-Syllepse. Dorlin, E. (2008). Sexe, genre et sexualités. PUF.
-Fausto-Sterling, A. (2012). Corps en tous genres. La dualité des sexes à
-l'épreuve de la science. La Découverte. Supports pédagogiques
+Dans le discours médical, des termes tels que "anormal" ou
+"hermaphrodite" sont évités, et les interventions chirurgicales sont
+présentées comme des "réparations" plutôt que des "constructions". Cette
+terminologie maintient la fiction d'une binarité sexuelle naturelle,
+malgré la diversité biologique observée.
 
-Frise chronologique des concepts Archives médicales du 19e siècle
-Documents du MLF Extraits de débats théoriques Affiches de mouvements
-féministes
+Les parents subissent une pression pour procéder à une assignation
+rapide et définitive du sexe de leur enfant. Ils reçoivent des
+instructions sur la manière de gérer le secret et l'ambiguïté,
+contribuant ainsi à la construction collective d'une "fiction
+opératoire" concernant le genre de l'enfant.
 
-Questions de réflexion
-
-Comment s'articulent les dimensions biologiques et sociales dans la
-construction du genre ? Quelles sont les spécificités de l'approche
-française des rapports sociaux de sexe ? Comment le concept de genre
-permet-il d'analyser les inégalités contemporaines ?
-
-Modalités d'évaluation
-
-Participation aux discussions Note de lecture critique sur un texte
-théorique Analyse d'un exemple contemporain à partir des outils
-conceptuels du cours  CopyRetry
-
-les décisions médicales d'assignation de sexe reposent sur des critères
-sociaux et culturels plus que biologiques Les médecins se présentent
-comme découvrant un "vrai sexe" alors qu'ils le construisent selon des
-normes culturelles
-
-Le rôle central des critères esthétiques et fonctionnels
-
-Importance démesurée accordée à l'apparence des organes génitaux
-externes Critères de "pénis adéquat" définis culturellement (taille,
-fonctionnalité) Asymétrie dans les critères anatomiques : focus sur le
-pénis pour les garçons, critères plus flous pour les filles Les
-pratiques discursives de normalisation
-
-Évitement des termes "anormal", "hermaphrodite", etc. Présentation des
-interventions comme "réparation" plutôt que "construction" Maintien
-d'une fiction de binarité naturelle malgré l'évidence biologique
-contraire
-
-La gestion parentale et sociale
-
-Pression à une assignation rapide et définitive Instructions aux parents
-pour gérer le secret et l'ambiguïté Construction collective d'une
-"fiction opératoire" sur le genre de l'enfant
+Ces pratiques soulignent l'influence des normes sociales et culturelles
+sur les décisions médicales d'assignation de sexe, mettant en évidence
+la complexité de la construction du genre dès la naissance.
