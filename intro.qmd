@@ -2,9 +2,7 @@
 bibliography: references.bib
 ---
 
-# Séance 1 - Déconstruire les évidences sur le genre {.unnumbered}
-
-## Description du cours
+# Déconstruire les évidences sur le genre {.unnumbered}
 
 Ce cours explore la construction historique et sociale des notions de
 sexe, genre et sexualité. Il vise à développer une approche critique des
@@ -285,28 +283,30 @@ thérapeutiques, comme les traitements
 hormonaux[@sengooptaMostSecretQuintessence2006].
 
 Au début du XXᵉ siècle, les théories de la différenciation sexuelle se
-sont consolidées avec la découverte des chromosomes sexuels, la
-compréhension des hormones de développement et l'étude de la
-différenciation embryonnaire.[@fausto-sterling2000] Ces avancées ont eu
-des applications cliniques, notamment dans le traitement des "anomalies"
-sexuelles, l'établissement de critères de normalité et la mise en place
-de protocoles thérapeutiques spécifiques.[@meyerowitz2004]
+sont consolidées avec la découverte des chromosomes
+sexuels[@richardson2013b], la compréhension des hormones de
+développement et l'étude de la différenciation
+embryonnaire.[@fausto-sterling2000] Ces avancées ont eu des applications
+cliniques, notamment dans le traitement des "anomalies" sexuelles,
+l'établissement de critères de normalité et la mise en place de
+protocoles thérapeutiques spécifiques.[@meyerowitz2004]
 
 Cette période a ainsi établi une "science du sexe" moderne, caractérisée
 par des normes biologiques strictes et un contrôle médical accru du
 genre.[@greenhalgh1995] Ces développements ont eu des implications
 sociales et politiques significatives, influençant la perception des
-identités sexuées et la régulation des comportements sexuels.
+identités sexuées et la régulation des comportements
+sexuels.[@lowyImperfectPregnanciesHistory2017]
 
 ### Étude de cas : les protocoles de John Money (1955)
 
 Dans les années 1950, le psychologue John Money a développé la théorie
 selon laquelle l'identité de genre est malléable à la naissance et se
-forme principalement par l'éducation et l'environnement social. Il a
-proposé que les enfants naissent sans conscience innée de leur sexe ou
-de leur genre, et que ces caractéristiques se développent à travers leur
-éducation, en particulier au cours d'une période critique située entre
-18 et 24 mois.
+forme principalement par l'éducation et l'environnement
+social[@karkazis2008]. Il a proposé que les enfants naissent sans
+conscience innée de leur sexe ou de leur genre, et que ces
+caractéristiques se développent à travers leur éducation, en particulier
+au cours d'une période critique située entre 18 et 24 mois.
 
 Sur la base de cette théorie, Money a établi des protocoles cliniques
 pour la prise en charge des enfants intersexes, c'est-à-dire ceux nés
@@ -327,20 +327,34 @@ priorité accordée à l'apparence des organes génitaux a influencé
 durablement la prise en charge médicale des enfants intersexes, avec des
 interventions chirurgicales souvent réalisées sans le consentement
 éclairé des patients concernés. Cependant, des cas ultérieurs, tels que
-celui de David Reimer, ont mis en évidence les limites et les
-conséquences potentiellement néfastes de ces approches, conduisant à une
-réévaluation des pratiques médicales concernant l'assignation de sexe et
-le respect de l'autonomie des individus intersexes.
+celui de David Reimer[@colapintoNatureMadeHim2000][^1], ont mis en
+évidence les limites et les conséquences potentiellement néfastes de ces
+approches, conduisant à une réévaluation des pratiques médicales
+concernant l'assignation de sexe et le respect de l'autonomie des
+individus intersexes.
 
-Les protocoles cliniques développés par John Money pour la prise en
-charge des enfants intersexes reposaient sur plusieurs principes clés.
-L'un des aspects fondamentaux était l'assignation précoce d'un sexe,
-basée principalement sur l'apparence des organes génitaux externes.
-Cette décision visait à faciliter l'intégration sociale de l'enfant en
-lui attribuant un sexe clairement identifiable. Pour renforcer cette
-assignation, des chirurgies de "normalisation" étaient souvent réalisées
-dès le plus jeune âge afin de conformer les organes génitaux à
-l'apparence attendue du sexe assigné. Le secret médical entourant ces
+[^1]: **David Reimer**, un garçon canadien qui a été élevé comme une
+    fille après une opération ratée de circoncision dans les années
+    1960. Sous l’influence du psychologue John Money, les parents de
+    David ont suivi une approche qui supposait que l'identité de genre
+    pouvait être entièrement modelée par l'éducation et l'environnement
+    social. Cependant, cette expérience a entraîné de grandes
+    souffrances pour David, qui a rejeté son identité féminine à
+    l’adolescence et a fini par se réidentifier en tant qu'homme. Voir
+    **Colapinto, J.** (2000). *As Nature Made Him: The Boy Who Was
+    Raised as a Girl.* Harper Perennial.
+
+Les protocoles cliniques développés par John
+Money[@moneyManWomanBoy1972; @moneyImprintingEstablishmentGender1957]
+pour la prise en charge des enfants intersexes reposaient sur plusieurs
+principes clés[@dreger2009]. L'un des aspects fondamentaux était
+l'assignation précoce d'un sexe, basée principalement sur l'apparence
+des organes génitaux externes[@reis2009]. Cette décision visait à
+faciliter l'intégration sociale de l'enfant en lui attribuant un sexe
+clairement identifiable. Pour renforcer cette assignation, des
+chirurgies de "normalisation" étaient souvent réalisées dès le plus
+jeune âge afin de conformer les organes génitaux à l'apparence attendue
+du sexe assigné.[@dreger2009a] Le secret médical entourant ces
 interventions était également jugé essentiel, les parents étant
 encouragés à ne pas divulguer la condition intersexe de l'enfant, dans
 le but de favoriser le développement d'une identité de genre cohérente
@@ -371,8 +385,6 @@ différences anatomiques homme/femme. Issu de PETERSEN, A. (1998). Sexing
 the Body: Representations of Sex Differences in Gray’s Anatomy, 1858 to
 the Present. Body & Society, 4(1),
 1-15.](images/clipboard-1285558360.png)
-
-### Transition vers la partie suivante
 
 Les critiques féministes ont mis en lumière la pathologisation des corps
 féminins et la normativité médicale qui en découle. Elles ont souligné
@@ -405,22 +417,23 @@ Ces critiques ont conduit à une réévaluation des pratiques médicales et
 et respectueuse des expériences des femmes et des personnes
 intersexuées. Elles ont également souligné l'importance de considérer le
 contexte historique et social dans lequel ces savoirs médicaux ont été
-produits, afin de comprendre les biais qui peuvent les influencer.
+produits, afin de comprendre les biais qui peuvent les
+influencer.[@varikas1992]
 
 Ainsi, une approche historique est essentielle pour comprendre comment
 les différences sexuelles ont été construites médicalement et comment
-ces constructions ont été contestées par les mouvements féministes.
-Cette perspective critique permet de remettre en question les normes
-établies et de promouvoir des pratiques médicales plus équitables et
-respectueuses de la diversité des corps et des identités. Système de
-représentations
+ces constructions ont été contestées par les mouvements
+féministes[@perrot1985]. Cette perspective critique permet de remettre
+en question les normes établies et de promouvoir des pratiques médicales
+plus équitables et respectueuses de la diversité des corps et des
+identités. [@dorlin2009]
 
 Les décisions médicales concernant l'assignation du sexe chez les
 nouveau-nés présentant des variations du développement génital reposent
 souvent davantage sur des critères sociaux et culturels que strictement
-biologiques. Les médecins, en se positionnant comme découvreurs d'un
-"vrai sexe", participent en réalité à sa construction selon des normes
-culturelles prédominantes.
+biologiques[@fausto-sterling2007]. Les médecins, en se positionnant
+comme découvreurs d'un "vrai sexe", participent en réalité à sa
+construction selon des normes culturelles prédominantes[@kessler1990].
 
 Une importance considérable est accordée à l'apparence des organes
 génitaux externes. Par exemple, la définition culturelle d'un "pénis
